@@ -10,8 +10,7 @@
 4. How might this practice of documentation (README) help in future projects?
 
 
-
-ANSWERS:
+# ANSWERS:
 
 1. In office contexts, website serve as the bulletin board or information portal that shows announcement, policies, schedules etc. It is usually a read-only where users just read and perform the task. It is more simple and minimalist unlike web applications. On the other hand, web applications serves as a book that interacts with its users like requesting or messaging.
    
