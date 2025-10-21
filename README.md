@@ -1,8 +1,5 @@
-"= BSOA\_2-1\_YTING\_JENNY\_A-LAB\_ACTIVITY\_1"
 
-
-
-QUESTIONS:
+# QUESTIONS:
 
 1. What is a website, and how is it different from a web application? 
 
